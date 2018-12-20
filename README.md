@@ -1,2 +1,2 @@
 # hello-world
-Let's learn how to use GitHub
+Now Im learning to use GitHub, is a quite interesting thing, seems to be easy to use
